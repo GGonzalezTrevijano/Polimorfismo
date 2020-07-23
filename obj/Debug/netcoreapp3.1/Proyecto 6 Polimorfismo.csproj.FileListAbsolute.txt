@@ -1,0 +1,13 @@
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\bin\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.exe
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\bin\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.deps.json
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\bin\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.runtimeconfig.json
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\bin\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.runtimeconfig.dev.json
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\bin\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.dll
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\bin\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.pdb
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.csprojAssemblyReference.cache
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.AssemblyInfoInputs.cache
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.AssemblyInfo.cs
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.csproj.CoreCompileInputs.cache
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.dll
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.pdb
+F:\ProyectProgramacion\Proyecto6 Polimorfismo\Proyecto 6 Polimorfismo\obj\Debug\netcoreapp3.1\Proyecto 6 Polimorfismo.genruntimeconfig.cache
